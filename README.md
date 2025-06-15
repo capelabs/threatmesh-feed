@@ -33,7 +33,3 @@ We welcome community contributions and feedback to help improve this threat feed
 
 - Email: `contact@thecapelabs.com`
 - Open an issue or pull request on GitHub to suggest improvements
-
----
-
-**ThreatMesh – Global Threat Visibility for Everyone.**
