@@ -4,7 +4,7 @@ The **ThreatMesh Feed** provides a daily list of attacker IP addresses detected 
 
 ## 📅 Update Schedule
 
-- Updated **daily at 12:00 PM UTC**
+- Updated **daily at 12:00 AM UTC**
 - Automatically refreshed with the latest data
 
 
